@@ -1,0 +1,12 @@
+myStyle.css
+
+body {
+  background-color: powderblue;
+}
+
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+td:nth-child(even), td:nth-child(even){background-color:#D6EEEE;}
